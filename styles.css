@@ -45,6 +45,11 @@ button {
     margin: 10px;
 }
 
+.reverb-section{
+    text-align: start;
+    color: red;
+}
+
 button:hover {
     background-color: #0056b3;
 }
