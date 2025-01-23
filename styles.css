@@ -45,9 +45,12 @@ button {
     margin: 10px;
 }
 
-.reverb-section{
-    text-align: start;
-    color: red;
+.delay{
+    margin-right: 35px;
+}
+
+.reverb{
+    margin-right: 25px;
 }
 
 button:hover {
@@ -69,10 +72,15 @@ button:hover {
     margin: 10px;
 }
 
+.input-section{
+    margin-right: 15px;
+}
+
 @media (min-width: 768px) {
     .container {
         flex-direction: row;
     }
 }
+
 
 
